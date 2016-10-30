@@ -89,5 +89,6 @@ public class ForEachString {
 A n A f r i c a n S w a l l o w
 *///:~
 ```
+
 - foreach will also work with any object that is Iterable
-- 
+-
