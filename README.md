@@ -49,6 +49,7 @@ amanda.change(11)
 // Output: I'm Tom and I'm 11 years old
 ```
 - You CANNOT change the value of "this"!
+
 #### Static Keyword: Its the single variable shared by a whole class of objects; its value does not vary from object to object
 - In a static method, THERE IS NO "this"!
 
